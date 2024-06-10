@@ -1,1 +1,1 @@
-# my-calculator-app
+# calculator-angular-app
